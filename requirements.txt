@@ -1,0 +1,10 @@
+flask
+pymysql
+flask-restful
+flask_sqlalchemy
+flask-serialize
+flask-cors
+PyJWT
+gunicorn
+pandas
+sklearn
